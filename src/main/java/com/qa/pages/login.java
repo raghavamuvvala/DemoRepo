@@ -7,4 +7,8 @@ public class login {
 		System.out.println("this is login");
 	}
 	
+	public void set() {
+		System.out.println("add Set");
+	}
+	
 }
